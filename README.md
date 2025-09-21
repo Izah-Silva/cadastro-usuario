@@ -36,7 +36,7 @@ Este projeto foi criado para praticar o desenvolvimento de um CRUD utilizando o 
 - Java  
 - Spring Boot  
 - Spring Data JPA  
-- Banco de dados (ex: H2 / MySQL / outro) *(ajuste conforme você estiver usando)*  
+- Banco de dados (H2)
 - Maven  
 
 ---
@@ -45,9 +45,8 @@ Este projeto foi criado para praticar o desenvolvimento de um CRUD utilizando o 
 
 Antes de rodar o projeto, você precisa ter instalado:
 
-- Java JDK (versão XX ou superior)  
-- Maven  
-- Um banco de dados configurado (se não for usar in-memory)  
+- Java JDK (versão 17 ou superior)  
+- Maven   
 - Git  
 
 ---
